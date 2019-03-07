@@ -1,0 +1,49 @@
+#hello{
+    text-align:center;
+}
+.style{
+    font-family: 'Staatliches', cursive;
+    color:yellow;
+}
+body{
+   background-color:#39a396;
+}
+.bird1{
+    display:none;
+    text-align: center;
+    color:#3b7d8e;
+    font-family: 'Amatic SC', cursive;
+    background-color:#6610bc;
+    color:#f29b59;
+     transition-delay: 5s;
+}
+.tiger{
+    text-align: center;
+    width:120px;
+    height:50px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+#hiddenpic{
+  display:none;
+  text-align:center;
+  
+}
+.bird2{
+    display:none;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.horay{
+    display:none;
+    width:350px;
+    text-align:center;
+    
+}
+.it{
+   display:none;
+   width:100px;
+   color:#05aaad;
+}
+#container{
+    display:flex;
+    justify-content:center;
+}
